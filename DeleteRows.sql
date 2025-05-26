@@ -16,3 +16,4 @@ SELECT * from employee;
 
 DELETE FROM employee
 WHERE emp_id = 2 ; 
+SELECT * from employee;
