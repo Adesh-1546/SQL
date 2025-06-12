@@ -12,8 +12,8 @@ CREATE TABLE employee(
 	First_name VARCHAR(50) NOT NULL ,
 	Last_name VARCHAR(20) NOT NULL ,
 	email VARCHAR(50) UNIQUE , 
-	age INT CHECK (age>=18),
-	HireDate DATE DEFAULT CURRENT_DATE 
+	age INT CHECK (age>=18)
+	
 	
 );
 
