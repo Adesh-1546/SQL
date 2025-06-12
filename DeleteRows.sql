@@ -12,6 +12,8 @@ WHERE emp_id = 5 ;
 	
 
 
+
+SELECT * from employee;
 SELECT * from employee;
 
 DELETE FROM employee

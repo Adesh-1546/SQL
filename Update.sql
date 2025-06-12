@@ -2,7 +2,7 @@ UPDATE employee
 SET age = 20 
 WHERE emp_id = 2 
 
-UPDATE employee
+UPDATE employee where
 SET age = 25 
 WHERE emp_id = 4
 
