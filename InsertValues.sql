@@ -6,5 +6,6 @@ INSERT INTO demotable (demo_name,demo_position,demo_place,demo_date,demo_salary)
 		   ('Vyse' , 'HR' ,'Pune', '2023-05-31' , 82000.02 ),
            ('adesh' , 'java dev', 'chinchwad','2023-05-31',250000),
 		   ('sahil', 'manager', 'pune ', '2023-06-240',300000),
+           ('Riya', 'manager', 'pune ', '2023-06-240',300000),
            ('Riya', 'manager', 'pune ', '2023-06-240',300000);
 
