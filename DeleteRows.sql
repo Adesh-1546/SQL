@@ -5,6 +5,7 @@ WHERE demo_id=5;
 
 DELETE FROM demotable
 WHERE demo_id=6;
+WHERE demo_id=6;
 
 
 DELETE FROM employee
