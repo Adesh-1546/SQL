@@ -12,6 +12,7 @@ CREATE TABLE employee(
 	First_name VARCHAR(50) NOT NULL ,
 	Last_name VARCHAR(20) NOT NULL ,
 	email VARCHAR(50) UNIQUE , 
+	email VARCHAR(50) UNIQUE , 
 	age INT CHECK (age>=18)
 	
 	
