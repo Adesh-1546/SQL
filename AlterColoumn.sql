@@ -1,4 +1,5 @@
 SELECT * FROM employee ;
+SELECT * FROM employee ;
 
 
 -- ALTER to rename column
