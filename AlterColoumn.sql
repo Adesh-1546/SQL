@@ -1,7 +1,9 @@
 SELECT * FROM employee ;
 SELECT * FROM employee ;
+SELECT * FROM employee ;
 
 
+-- ALTER to rename column
 -- ALTER to rename column
 ALTER TABLE employee 
 RENAME hiredate TO Hire_date ;
