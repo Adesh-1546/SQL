@@ -1,4 +1,6 @@
 SELECT * from demotable;
+SELECT * from demotable;
+SELECT * from demotable;
 
 DELETE FROM demotable
 WHERE demo_id=5;
