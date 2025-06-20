@@ -2,6 +2,8 @@ CREATE TABLE demoTable (
 	demo_id SERIAL,
 	demo_name VARCHAR(20),
 	demo_position VARCHAR (50),
+	demo_position VARCHAR (50),
+	demo_position VARCHAR (50),
 	demo_place VARCHAR (20),
 	demo_date DATE,
 	demo_salary NUMERIC(10,2)
