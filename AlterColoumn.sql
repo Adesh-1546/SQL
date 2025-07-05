@@ -7,6 +7,7 @@ SELECT * FROM employee ;
 -- ALTER to rename column
 ALTER TABLE employee 
 RENAME hiredate TO Hire_date ;
+RENAME hiredate TO Hire_date ;
 
 --ALTER to remove CONSTRAINTS
 ALTER TABLE employee 
