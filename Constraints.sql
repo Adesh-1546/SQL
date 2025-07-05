@@ -11,5 +11,8 @@ CREATE TABLE employees (
   age INT CHECK (age >= 18),
   hire_date DATE  ,
   department_id INT,
+  department_id INT,
+  department_id INT,
+  department_id INT,
   FOREIGN KEY (department_id) REFERENCES departments(department_id)
 );
