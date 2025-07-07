@@ -1,6 +1,8 @@
 UPDATE employee
 SET age = 20 
 WHERE emp_id = 2 
+WHERE emp_id = 2 
+WHERE emp_id = 2 
 
 
 
