@@ -11,6 +11,7 @@ ADD DOB date;
 
 ALTER table employee1
 RENAME column DOB TO DateOFBirth;
+RENAME column DOB TO DateOFBirth;
 
 ALTER table employee1
 DROP column DateOFBirth;

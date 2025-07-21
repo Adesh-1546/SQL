@@ -74,7 +74,8 @@ INSERT INTO Employee1 VALUES
 (57, 'Jackson', 'White', 58000),
 (58, 'Aria', 'Hall', 85000),
 (59, 'Aiden', 'Smith', 50000),
-(60, 'Emma', 'Wilson', 77000);
+(60, 'Emma', 'Wilson', 77000),
+(61, 'Emma', 'Wilson', 77000);
 
 select * from Employee1;
 
