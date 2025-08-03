@@ -5,6 +5,8 @@ use sampledb;
 show tables;
 
 desc employee1;
+desc employee1;
+desc employee1;
 
 ALTER table employee1 
 ADD DOB date;
